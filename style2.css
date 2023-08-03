@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #053c3fd3;
+}
+
+h2 {
+    color: #064246d3 ;
+    font-size: 30px;
+}
+
+.contact, .login, .survey {
+    border-color: #0508b9d5;
+    border: 2px solid #0c9cfc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px ;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+#submit {
+    padding: 10px;
+    background-color: #0c9cfc;
+    width: 100px;
+}
+
